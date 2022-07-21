@@ -11,6 +11,7 @@
 .one{
     display: flex;
     flex:1;
+    background-color: black;
 }
 .one div {
     background-color: aqua;
